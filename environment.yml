@@ -1,0 +1,14 @@
+name: 522a2
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - requests
+  - jupyterlab
+  - conda-lock
+  - pip
